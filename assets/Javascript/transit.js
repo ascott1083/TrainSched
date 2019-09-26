@@ -1,7 +1,17 @@
 // initialize Firebase
+var firebaseConfig = {
+    apiKey: "AIzaSyBPiEqKIrcCoDFHviztsH7RPtqPihgth1g",
+    authDomain: "trainsched-80887.firebaseapp.com",
+    databaseURL: "https://trainsched-80887.firebaseio.com",
+    projectId: "trainsched-80887",
+    storageBucket: "",
+    messagingSenderId: "507817505294",
+    appId: "1:507817505294:web:e81b523abd88313eefc25f"
+  };
+  
+  firebase.initializeApp(firebaseConfig);
 
-// create a variable to reference the Firebase database
-
+  var database = firebase.database();
 
 // create variables to reference train inputs
 // initialize to avoid errors on load
@@ -140,4 +150,4 @@ function validateFirstTrainTime(hours, minutes) {
     return false;
   }
   return true;
-}s
+}
