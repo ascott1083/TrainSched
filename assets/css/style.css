@@ -4,18 +4,18 @@ body {
   
   #train-inputs {
     margin-top: 30px;
-    border: 2px solid #AA7E7E;
+    border: 2px solid black;
   }
   
   #train-table {
     margin-bottom: 20px;
-    border: 2px solid #AA7E7E;
+    border: 2px solid black;
   }
   
   .jumbotron {
-    background-color: #F2DCDC;
+    background-color: gray;
     color: black;
-    border: 2px solid #AA7E7E;
+    border: 2px solid black;
     margin-top: 20px;
   }
   
@@ -43,12 +43,12 @@ body {
   }
   
   .btn {
-    background-color: #AA7E7E;
-    border-color: #815858;
+    background-color: black;
+    border-color: black;
   }
   
   .btn:hover {
-    background-color: #A88C8C;
-    border-color: #F2DCDC;
+    background-color: black;
+    border-color: black;
   }
   
