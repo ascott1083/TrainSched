@@ -11,6 +11,7 @@ firebase.initializeApp(config);
 
 // create a variable to reference the Firebase database
 var database = firebase.database();
+
 // create variables to reference train inputs
 // initialize to avoid errors on load
 
