@@ -4,7 +4,7 @@
 
 This app demonstrates using a [Firebase Realtime Database](https://firebase.google.com/docs/database/) to store transit schedule data, which is used to calculate timetables and arrival times for the fictional Coaster Surfer commuter rail system.
 
-View the app at 
+View the app at https://ascott1083.github.io/TrainSched/.
 
 
 It has a dashboard of current trains and upcoming arrival times, plus a form to add a new train to the schedule.
