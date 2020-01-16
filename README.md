@@ -21,4 +21,8 @@ Because transit data is often written with a 24-hour clock, such as 06:00 or 21:
 
 ## Technology
 
-This project was built with JavaScript, jQuery, Bootstrap, HTML, and CSS. The data is in a Firebase Realtime Database.
+* JavaScript 
+* jQuery 
+* Bootstrap
+* HTML
+* CSS. 
