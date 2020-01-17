@@ -1,10 +1,12 @@
-var config = {
-  apiKey: "AIzaSyC1-lfMm-ICxtXmyZYMaB8kS4it_jaZODI",
-  authDomain: "transit-schedules.firebaseapp.com",
-  databaseURL: "https://transit-schedules.firebaseio.com",
-  projectId: "transit-schedules",
-  storageBucket: "",
-  messagingSenderId: "531882819109"
+const firebaseConfig = {
+  apiKey: "AIzaSyDzKI_92qiuHScO4sErc4__FsO988zVU1g",
+  authDomain: "trainschedule-1bb80.firebaseapp.com",
+  databaseURL: "https://trainschedule-1bb80.firebaseio.com",
+  projectId: "trainschedule-1bb80",
+  storageBucket: "trainschedule-1bb80.appspot.com",
+  messagingSenderId: "648525075307",
+  appId: "1:648525075307:web:e3b78eaec62850de63f22e",
+  measurementId: "G-N2EG7WED90"
 };
 
 firebase.initializeApp(config);
